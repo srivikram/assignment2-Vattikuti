@@ -11,7 +11,4 @@ India
 * Australia
 * England
 * Newzeland
-
-![2][def]
-
-[def]: https://user-images.githubusercontent.com/38721567/215379388-e20fc632-440a-4eb0-8d4c-370f51d22fc9.JPG
+[a link](https://github.com/srivikram/assignment2-Vattikuti/blob/main/AboutMe.md)(To_Know_About_Me)
