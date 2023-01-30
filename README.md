@@ -32,7 +32,7 @@ Looking to travel the world? Here are some top recommendations!
 ## Favorite Funny Quotes
 
 > "Why did the tomato turn red? Because it saw the salad dressing!" 
-> - Unknown 
+> - Vikram 
 
 > "I'm reading a book on anti-gravity. It's impossible to put down." 
-> - Unknown 
+> - Vikram 
