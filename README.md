@@ -13,3 +13,16 @@ India
 * Newzeland
 
 [To know more about me](https://github.com/srivikram/assignment2-Vattikuti/blob/main/AboutMe.md)
+
+---
+
+## Top Travel Destinations
+
+Looking to travel the world? Here are some top recommendations!
+
+| Country | Reason for Recommendation | Days Spent |
+|---------|---------------------------|-----------|
+| Japan | A fusion of ancient tradition & modern technology | 7-10 days |
+| Italy | Home to world-renowned art, cuisine, & architecture | 7-10 days |
+| Australia | Natural beauty with beaches, rainforests, & wildlife | 10-14 days |
+| Iceland | Surreal landscapes with glaciers, hot springs, & waterfalls | 5-7 days |
