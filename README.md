@@ -5,6 +5,6 @@
 ****
 ###### The Gentlemen Game
 India
-1.Sachin Ramesh Tendulkar
-2.Virendra Sehwag
-3.Rohit Sharma
+1. Sachin Ramesh Tendulkar
+2. Virendra Sehwag
+3. Rohit Sharma
