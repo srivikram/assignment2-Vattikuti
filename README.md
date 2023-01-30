@@ -26,3 +26,13 @@ Looking to travel the world? Here are some top recommendations!
 | Italy | Home to world-renowned art, cuisine, & architecture | 7-10 days |
 | Australia | Natural beauty with beaches, rainforests, & wildlife | 10-14 days |
 | Iceland | Surreal landscapes with glaciers, hot springs, & waterfalls | 5-7 days |
+
+---
+
+## Favorite Funny Quotes
+
+> "Why did the tomato turn red? Because it saw the salad dressing!" 
+> - Unknown 
+
+> "I'm reading a book on anti-gravity. It's impossible to put down." 
+> - Unknown 
