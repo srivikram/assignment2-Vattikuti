@@ -11,5 +11,5 @@ India
 * Australia
 * England
 * Newzeland
-<br>
+
 [To know more about me](https://github.com/srivikram/assignment2-Vattikuti/blob/main/AboutMe.md)
