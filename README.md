@@ -40,6 +40,7 @@ Looking to travel the world? Here are some top recommendations!
 ---
 ## Code Fencing
 
+````
 ``` 
 &copy; <?php echo date("Y"); ?>
 &copy; 2008-<?php echo date("Y"); ?>
@@ -53,5 +54,6 @@ Looking to travel the world? Here are some top recommendations!
 <?php auto_copyright();
 <?php auto_copyright("2010"); 
 '''
+````
 [Quick link to my snippet] (https://stackoverflow.com/questions/61050683/automatic-copyright-year-using-php)
 
