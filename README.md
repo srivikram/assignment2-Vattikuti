@@ -53,5 +53,5 @@ Looking to travel the world? Here are some top recommendations!
 <?php auto_copyright();
 <?php auto_copyright("2010"); 
 '''
-Quick link to my snippet <https://stackoverflow.com/questions/61050683/automatic-copyright-year-using-php>
+[Quick link to my snippet] (https://stackoverflow.com/questions/61050683/automatic-copyright-year-using-php)
 
